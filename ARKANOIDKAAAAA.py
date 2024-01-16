@@ -43,7 +43,7 @@ for s in range(3):
     y = monster_y+(55*s)
     x = monster_x+(28*s)
     for i in range(count):
-        monster=Picture('enemy_1615463121.png',x,y,50,50)
+        monster=Picture('659d711a8c3cb.png',x,y,50,50)
         monsters.append(monster)
         x=x+55
     count=count-1
