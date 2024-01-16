@@ -32,7 +32,7 @@ miachik_sp_x=5
 miachik_sp_y=5
 
 miachik = Picture("ball_1615463127.png", 160, 200, 50, 50)
-platform = Picture("platform.png", pl_x, pl_y, 100, 30)
+platform = Picture("659d71cbdaa3f.png", pl_x, pl_y, 100, 30)
 
 monster_x=5
 monster_y=5
